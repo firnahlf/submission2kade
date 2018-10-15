@@ -1,0 +1,10 @@
+#Sun Oct 14 22:24:58 WIB 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/firna/AndroidStudioProjects/project android studio/submission2/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/home/firna/AndroidStudioProjects/project android studio/submission2/app/build/intermediates/transforms/dexMerger/debug/13
+base.0=/home/firna/AndroidStudioProjects/project android studio/submission2/app/build/intermediates/transforms/dexMerger/debug/14
